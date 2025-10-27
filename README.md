@@ -7,4 +7,25 @@
 
 🖥️ **Atualmente** sou estudante de *Anaslise e desenvolvemento de sistemos* na Unifatecie.
 
+💡**Sou muito curioso**, e tenho me apaixonado cada vez mais pelo desenvolvimento de software e todo seu universo de possibilidades.
 
+🌐 **Meu foco no momento** é o desenvolvimento web, explorano tanto o *front-end* quanto o *back-end*.
+
+💻 **Tecnologias e Conhecimentos**
+Minhas áreas de estudo e conhecimento atual incluem:
+
+
+
+#### HTML5![html-logo](https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp): 
+- Conhecimento sólido na estruturação de conteúdo web.
+
+#### CSS3:
+- Proficiência em estilização e design, com conhecimento intermediário em Bootstrap para layouts responsivos.
+
+#### JavaScript:
+- Conhecimento nos fundamentos da linguagem para interatividade e dinamismo web.
+
+Linguagem de Programação:
+
+#### Python:
+- Conhecimento intermediário, utilizando a linguagem para diversos fins, como lógica de programação e scripts.
