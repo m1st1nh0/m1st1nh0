@@ -16,16 +16,16 @@ Minhas áreas de estudo e conhecimento atual incluem:
 
 
 
-#### HTML5 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="logo html" width="15" height="20">: 
+#### HTML5 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="logo html" width="15" height="25">: 
 - Conhecimento sólido na estruturação de conteúdo web.
 
-#### CSS3:
+#### CSS3<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svghttps://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="logo html" width="15" height="25">:
 - Proficiência em estilização e design, com conhecimento intermediário em Bootstrap para layouts responsivos.
 
-#### JavaScript:
+#### JavaScript<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="logo html" width="25" height="25">:
 - Conhecimento nos fundamentos da linguagem para interatividade e dinamismo web.
 
 Linguagem de Programação:
 
-#### Python:
+#### Python<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="logo html" width="15" height="25">:
 - Conhecimento intermediário, utilizando a linguagem para diversos fins, como lógica de programação e scripts.
