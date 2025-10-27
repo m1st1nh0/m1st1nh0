@@ -14,17 +14,16 @@ Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mu
 
 ## 💻 Tecnologias e Conhecimentos
 
-### 🌐 Front-end
-- **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20"/>  
-  Estruturação semântica de conteúdo web  
-- **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20"/>  
-  Estilização responsiva, com experiência em **Bootstrap**  
-- **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20"/>  
-  Fundamentos sólidos para interatividade e dinamismo  
+### 💻 Front-end
+| **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20"/> | **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20"/> | **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20"/> |
+|-----------------|-----------------|-----------------|
+| Estruturação de páginas web, semântica, formulários | Layout responsivo, Flexbox, Grid, Bootstrap, animações | DOM, eventos, funções, lógica de programação |
 
 ### 👨🏽‍💻 Back-end & Programação
-- **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/>  
-  Conhecimento intermediário, aplicando em lógica de programação, automações e scripts  
+| **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/> |
+|-----------------|
+| Conhecimento intermediário, aplicando em lógica de programação, automações e scripts |
+
 
 ---
 
