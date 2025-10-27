@@ -16,7 +16,7 @@ Minhas áreas de estudo e conhecimento atual incluem:
 
 
 
-#### HTML5 <img src="https://banner2.cleanpng.com/20180802/tpl/8d69cc4026ef9ea2fbc9f5972dd52fe7.webp" alt="logo html" width="15" height="15">: 
+#### HTML5 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="logo html" width="15" height="15">: 
 - Conhecimento sólido na estruturação de conteúdo web.
 
 #### CSS3:
