@@ -22,15 +22,16 @@ Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mu
 ### 👨🏽‍💻 Back-end & Programação
 | **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/> |
 |-----------------|
-| Conhecimento intermediário, aplicando em lógica de programação, automações e scripts |
+| Conhecimento de tipos, funções, objetos, listas, tuplas, métodos,operadores, e outros tópicos fundamentais da linguagem. |
 
 
 ---
 
 ## 📈 Objetivos
-- Aprimorar minhas habilidades em **frameworks modernos** (React, Node.js, Django)  
+- Aprimorar minhas habilidades em **frameworks modernos e APis** (React, Node.js, Django, Selenium, Pandas, Angular etc..)  
 - Construir projetos práticos para compor meu **portfólio**  
-- Contribuir com a comunidade open-source e aprender colaborando  
+- Contribuir com a comunidade open-source e aprender colaborando
+  
 
 ---
 
