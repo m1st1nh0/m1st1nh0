@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a)! <img src="https://www.codewars.com/users/m1st1nh0/badges/large"/>
+# 👋 Olá, seja bem-vindo(a)! <img src="https://www.codewars.com/users/m1st1nh0/badges/small"/>
 
 Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mundo da tecnologia 🚀
 
