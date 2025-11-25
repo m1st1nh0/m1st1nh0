@@ -2,8 +2,8 @@
 
 Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mundo da tecnologia 🚀
 
-<img src="https://wordpress-cms-revista-prod-assets.quero.space/legacy_posts/post_images/15721/a3db5ae0d93f3eaf373589f2e21c36e5dade68e6.gif?1551215966" alt="trabalhando com mais afinco camarada" width="25%" float='right'/>
-
+<img src="" alt="" width="25%" display/>
+![trabalhando com mais afinco camarada](https://wordpress-cms-revista-prod-assets.quero.space/legacy_posts/post_images/15721/a3db5ae0d93f3eaf373589f2e21c36e5dade68e6.gif?1551215966)
 ### 🖥️ Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unifatecie**  
 - 💡 Apaixonado por **desenvolvimento de software** e suas infinitas possibilidades  
