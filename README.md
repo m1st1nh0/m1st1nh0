@@ -2,12 +2,12 @@
 
 Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mundo da tecnologia 🚀
 
-<img src="https://wordpress-cms-revista-prod-assets.quero.space/legacy_posts/post_images/15721/a3db5ae0d93f3eaf373589f2e21c36e5dade68e6.gif?1551215966" alt="trabalhando com mais afinco camarada" width="300" height="200" align="right"/>
+<img src="https://wordpress-cms-revista-prod-assets.quero.space/legacy_posts/post_images/15721/a3db5ae0d93f3eaf373589f2e21c36e5dade68e6.gif?1551215966" alt="trabalhando com mais afinco camarada" width="100%"/>
 
 ### 🖥️ Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unifatecie**  
 - 💡 Apaixonado por **desenvolvimento de software** e suas infinitas possibilidades  
-- 🌐 Atualmente focado em **desenvolvimento web**, explorando tanto **front-end** quanto **back-end**  
+- 🌐 Atualmente explorando tanto **front-end** quanto **back-end**, com experiência em projetos pessoais com foco prático  
 - 🔎 Curioso por natureza, sempre buscando aprender novas tecnologias e boas práticas  
 
 ---
@@ -15,22 +15,31 @@ Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mu
 ## 💻 Tecnologias e Conhecimentos
 
 ### 💻 Front-end
-| **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20"/> | **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20"/> | **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20"/> |
+Experiência prática no desenvolvimento de interfaces e páginas com foco em design responsivo e efeitos visuais:
+| **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20"/> | **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20"/> | **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/> |
 |-----------------|-----------------|-----------------|
-| Estruturação de páginas web, semântica, formulários | Layout responsivo, Flexbox, Grid, Bootstrap, animações | DOM, eventos, funções, lógica de programação |
+| Estruturação semântica de páginas, formulários e boas práticas | Layouts responsivos, animações, Flexbox e Grid | Manipulação de DOM, lógica de programação |
+
+Algum destaque em **projetos práticos** como:
+- Accordion FAQ Card com efeitos visuais
+- Exercícios de lógica em desafios iniciais
 
 ### 👨🏽‍💻 Back-end & Programação
-| **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/> |
-|-----------------|
-| Conhecimento de tipos, funções, objetos, listas, tuplas, métodos,operadores, e outros tópicos fundamentais da linguagem. |
+Exploração inicial e sólidos fundamentos, focando em Python e Java:
+| **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/> | **Java** <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20"/> |
+|-----------------|-----------------|
+| Manipulação de dados, bibliotecas como Pandas, Selenium e automações básicas | Princípios fundamentais aprendidos durante curso básico |
 
+🎨 Além disso:
+- Experiência prática com projetos de controle de finanças e lógica
+- Interesse em frameworks e APIs como React e Django para expandir habilidades
 
 ---
 
 ## 📈 Objetivos
-- Aprimorar minhas habilidades em **frameworks modernos e APis** (React, Node.js, Django, Selenium, Pandas, Angular etc..)  
-- Construir projetos práticos para compor meu **portfólio**  
-- Contribuir com a comunidade open-source e aprender colaborando
+- Aprimorar minhas habilidades em **frameworks modernos e APIs** (React, Node.js, Django, Angular, etc.)  
+- Construir mais projetos práticos para compor meu **portfólio**  
+- Contribuir com a comunidade open-source e aprender colaborativamente por meio de desafios reais  
   
 
 ---
@@ -38,5 +47,3 @@ Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mu
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-schamposki/)  
 - 📧 **lukaschamposki@gmail.com**  
- 
-
