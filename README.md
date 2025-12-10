@@ -47,3 +47,85 @@ Exploração inicial e sólidos fundamentos, focando em Python e Java:
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-schamposki/)  
 - 📧 **lukaschamposki@gmail.com**  
+
+---
+
+## 🚀 Projeto: Loft WhatsApp Message Rewriter
+
+### Sobre o Projeto
+Sistema de reescrita de mensagens de cobrança para WhatsApp que transforma textos técnicos e burocráticos em mensagens diretas, amigáveis e focadas na solução (desconto) ao invés do problema (dívida).
+
+### Funcionalidades
+- ✅ Conversão de mensagens técnicas para o "Estilo Direto"
+- ✅ Formatação automática de datas (DD/MM/YYYY → Mês/Ano)
+- ✅ Agrupamento inteligente de meses
+- ✅ Destaque visual em valores monetários
+- ✅ Foco no desconto oferecido
+- ✅ Call-to-action simples e direto
+
+### Como Usar
+
+#### Instalação
+```bash
+# Clone o repositório
+git clone https://github.com/m1st1nh0/m1st1nh0.git
+cd m1st1nh0
+
+# Não há dependências externas! Apenas Python 3.6+
+```
+
+#### Uso Básico
+```python
+from loft_message_rewriter import LoftMessageRewriter
+
+# Criar instância do rewriter
+rewriter = LoftMessageRewriter()
+
+# Mensagem técnica original
+raw_message = """Contrato nº 1681933. Identificamos que a imobiliária apontou valores pendentes, mas já foram pagos por nós, como fiadores. Aluguéis vencimento 21/07/2025 e 20/08/2025. Condomínios vencimento 12/07/2025 e 12/08/2025. Valor total: R$ 7.450,85. Quero te apresentar nossa opção com desconto de 100% dos juros. Valor com desconto: R$ 6.622,10. Economia: R$ 828,75. Válida somente hoje."""
+
+# Transformar para estilo direto
+output = rewriter.rewrite_message(raw_message, customer_name="Juraci")
+print(output)
+```
+
+#### Resultado
+```
+Oi, Juraci! Tudo bem?
+
+Sobre o contrato 1681933, regularizamos os Aluguéis e Condomínios de Jul e Ago/25 junto à imobiliária.
+
+Para quitarmos isso hoje, consegui isentar 100% dos juros da Loft:
+
+De: *R$ 7.450,85*
+Por: *R$ 6.622,10* *(Válido só hoje)*
+
+É uma economia de R$ 829,00. Posso gerar o boleto com esse desconto para você?
+```
+
+#### Exemplos
+```bash
+# Executar o exemplo principal
+python3 loft_message_rewriter.py
+
+# Executar exemplos interativos
+python3 example_usage.py
+
+# Executar testes
+python3 -m unittest test_loft_message_rewriter.py -v
+```
+
+### Diretrizes do "Estilo Direto"
+1. **Humanização Imediata**: Saudação curta e personalizada
+2. **Zero "Juridiquês"**: Linguagem simples e direta
+3. **Resumo Inteligente**: Datas no formato Mês/Ano, agrupamento de itens
+4. **Destaque Visual**: Negrito em valores e prazos
+5. **Foco no Benefício**: Desconto em evidência
+6. **CTA Simples**: Pergunta direta que exige resposta simples
+
+### Estrutura dos Arquivos
+- `loft_message_rewriter.py` - Módulo principal com a classe `LoftMessageRewriter`
+- `test_loft_message_rewriter.py` - Testes unitários completos
+- `example_usage.py` - Exemplos de uso do sistema
+
+---
