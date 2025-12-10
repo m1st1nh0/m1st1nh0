@@ -213,9 +213,8 @@ class LoftMessageRewriter:
             
             # Calculate savings
             savings = total_value - discount_value
-            savings_str = self.format_currency(savings)
             # Round to nearest whole number for display
-            savings_rounded = round(savings)
+            savings_rounded = float(round(savings))
             lines.append("")
             lines.append(f"É uma economia de {self.format_currency(savings_rounded)}. Posso gerar o boleto com esse desconto para você?")
         else:
