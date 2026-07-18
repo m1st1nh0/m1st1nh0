@@ -1,49 +1,61 @@
-# 👋 Olá, seja bem-vindo(a)! <img src="https://www.codewars.com/users/m1st1nh0/badges/small"/>
+<h1 align="center">Olá, eu sou o Lucas Matheus 👋</h1>
 
-Me chamo **Lucas Matheus** e aqui está um pouco sobre mim e minha jornada no mundo da tecnologia 🚀
-
-<img src="https://wordpress-cms-revista-prod-assets.quero.space/legacy_posts/post_images/15721/a3db5ae0d93f3eaf373589f2e21c36e5dade68e6.gif?1551215966" alt="trabalhando com mais afinco camarada" width="300" height="200" align="right"/>
-
-### 🖥️ Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unifatecie**  
-- 💡 Apaixonado por **desenvolvimento de software** e suas infinitas possibilidades  
-- 🌐 Atualmente explorando tanto **front-end** quanto **back-end**, com experiência em projetos pessoais com foco prático  
-- 🔎 Curioso por natureza, sempre buscando aprender novas tecnologias e boas práticas  
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full-Stack em formação <br>
+  Curitiba - PR, Brasil 🇧🇷
+</p>
 
 ---
 
-## 💻 Tecnologias e Conhecimentos
+## 🚀 Sobre mim
 
-### 💻 Front-end
-Experiência prática no desenvolvimento de interfaces e páginas com foco em design responsivo e efeitos visuais:
-| **HTML5** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20"/> | **CSS3** <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20"/> | **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20"/> |
-|-----------------|-----------------|-----------------|
-| Estruturação semântica de páginas, formulários e boas práticas | Layouts responsivos, animações, Flexbox e Grid | Manipulação de DOM, lógica de programação |
-
-Algum destaque em **projetos práticos** como:
-- Accordion FAQ Card com efeitos visuais
-- Exercícios de lógica em desafios iniciais
-
-### 👨🏽‍💻 Back-end & Programação
-Exploração inicial e sólidos fundamentos, focando em Python e Java:
-| **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="25"/> | **Java** <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20"/> |
-|-----------------|-----------------|
-| Manipulação de dados, bibliotecas como Pandas, Selenium e automações básicas | Princípios fundamentais aprendidos durante curso básico |
-
-🎨 Além disso:
-- Experiência prática com projetos de controle de finanças e lógica
-- Interesse em frameworks e APIs como React e Django para expandir habilidades
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Apaixonado por **automação, web scraping e análise de dados**
+- 🐍 Especialista em Python com foco em coleta e visualização de dados
+- 🌱 Atualmente aprendendo **redes de computadores** e aprofundando em backend
+- 💼 Trabalhando em projetos freelance de raspagem de dados e dashboards
 
 ---
 
-## 📈 Objetivos
-- Aprimorar minhas habilidades em **frameworks modernos e APIs** (React, Node.js, Django, Angular, etc.)  
-- Construir mais projetos práticos para compor meu **portfólio**  
-- Contribuir com a comunidade open-source e aprender colaborativamente por meio de desafios reais  
-  
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas:**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-schamposki/)  
-- 📧 **lukaschamposki@gmail.com**  
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [🏠 dash-imoveis-olx](https://github.com/m1st1nh0/dash-imoveis-olx) | Dashboard interativo de análise do mercado imobiliário | Python, Streamlit, Web Scraping |
+| [💰 Controle de Finanças](https://github.com/m1st1nh0/Projeto-de-controle-de-finan-as-pessoais) | Controle de gastos pessoais | Python |
+| [🎮 Pokedex](https://github.com/m1st1nh0/Pokedex) | Pokedex interativa consumindo a PokeAPI | HTML, CSS, JavaScript |
+| [🥗 Calculadora de Dieta](https://github.com/m1st1nh0/CalculardoraDieta) | Calculadora de refeições com interface web | JavaScript |
+| [🕹️ Tetris](https://github.com/m1st1nh0/Tetris) | Clone do Tetris em JavaScript puro | JavaScript |
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m1st1nh0&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1st1nh0&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaschamposki@gmail.com)
